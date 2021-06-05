@@ -1,0 +1,103 @@
+body {
+	background-color: #e1f9ec;
+	font-family: calibri;
+	font-size: 12px;
+	
+	}
+	
+#geral {
+	width:750px;     
+	margin-top: 0px;
+	text-align:left;
+	height: 650px;
+
+	}
+#topo {
+	width:750px;
+    height:100px;
+	border-bottom:1px solid #FFFFFF;
+	background-image: url('../Imagens/fundo_topo.jpg');
+	}
+	
+	
+#conteudo {
+	float:left;
+	width:600px;
+	height: 600px;
+	background-color: #FFFFFF;
+	text-align: justify;
+	color:  #7ab792;
+	font: calibri;
+	font-size: 12px; 
+	}
+	
+#navegacao {
+	width:150px;
+	float:left;
+	height: 600px;
+	background-color: #7ab792;
+	padding-left: 2px;
+	font-family: calibri;
+	font-size: 12px;
+	color: #FFFFFF;
+	}
+
+#rodape {
+	clear:both;
+	text-align:center;
+	border-top:1px solid #FFFFFF;
+	background-color: #FFFF99;
+	height: 20px;
+	width: 750px;
+	text-align: center;
+	font-family: calibri;
+	font-size: 12px;
+	padding-top: 2px; 
+	}
+
+.botao{
+	width: 70px;
+	height: 25px;
+	color: #7ab792;
+	font-weight: bold;
+	background-color: #FFFF99;
+	border: 1px outset #FFFFFF;
+	font-family: calibri;
+}
+a{
+	color: white;
+	text-decoration: none;
+	font-family: calibri;
+	font-size: 12px;
+}
+
+a:hover{
+	color: white;
+	text-decoration: underline;
+	font-family: calibri;
+	font-size: 12px;
+}
+
+.box{
+	width: 100px;
+	height: 150px;
+	border: 1px #FFFF99 solid;
+	margin-left: 5px;
+	margin-top: 5px;
+	font-weight: bold;
+	font-family: calibri;
+	
+		
+}
+
+.titulo{
+	color: white;
+	font-weight: bold;
+	font-family: calibri;
+}
+
+.img{
+	margin-left: 15px;
+	margin-top: 5px;
+}
+
