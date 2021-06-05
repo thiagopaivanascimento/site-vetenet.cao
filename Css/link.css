@@ -3,8 +3,10 @@ ul.menubar{
 	height: 300px auto;
 	text-align: left;
 	background-color: #7ab792;
-	margin: 0px;
-	padding: 0px;
+	margin-left: 9px;
+	padding: 1px;
+	/*border: 1px solid #000;*/
+	text-decoration: none;
 }
 
 
@@ -16,10 +18,11 @@ li a{
 	font-size: 14px;
 	font-weight: bold;
 	text-decoration: none;
-	text-align: center;
-	border-bottom: 1px inset #FFFFFF;
-	
-	}
+	text-align: left;
+	/*border-bottom: 1px inset #FFFFFF;*/
+	/*border: 1px solid #000;*/
+	display: block;
+}	
 
 ul, li a:hover{
 	width: 148px;
@@ -30,8 +33,8 @@ ul, li a:hover{
 	font-weight: bold;
 	text-decoration: underline;
 	background-color: #FFFF99;
-	text-align: center;
+	text-align: left;
 	border-top: 1px outset;
-	border-bottom: 1px outset #FFFFFF;
+	/*border-bottom: 1px outset #FFFFFF;*/
 }
 

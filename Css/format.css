@@ -2,8 +2,7 @@ body {
 	background-color: #e1f9ec;
 	font-family: calibri;
 	font-size: 12px;
-	
-	}
+}
 	
 #geral {
 	width:750px;     
@@ -17,22 +16,10 @@ body {
     height:100px;
 	border-bottom:1px solid #FFFFFF;
 	background-image: url('../Imagens/fundo_topo.jpg');
-	}
-	
-	
-#conteudo {
-	float:left;
-	width:600px;
-	height: 600px;
-	background-color: #FFFFFF;
-	text-align: justify;
-	color:  #7ab792;
-	font: calibri;
-	font-size: 12px; 
-	}
-	
+}
+
 #navegacao {
-	width:150px;
+	width: 170px;
 	float:left;
 	height: 600px;
 	background-color: #7ab792;
@@ -40,7 +27,18 @@ body {
 	font-family: calibri;
 	font-size: 12px;
 	color: #FFFFFF;
-	}
+}
+	
+#conteudo {
+	float:left;
+	width:578px;
+	height: 600px;
+	background-color: #FFFFFF;
+	text-align: justify;
+	color:  #7ab792;
+	font: calibri;
+	font-size: 12px; 
+}
 
 #rodape {
 	clear:both;
@@ -86,8 +84,6 @@ a:hover{
 	margin-top: 5px;
 	font-weight: bold;
 	font-family: calibri;
-	
-		
 }
 
 .titulo{
